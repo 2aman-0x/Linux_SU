@@ -1,1 +1,24 @@
-# Linux_SU
+## Topics
+- How to switch a user?
+- How to exit from current user?
+- What is use of ```sudo```?
+- How to provide ```sudo``` access to a user?
+- What is ```visudo```?
+- Working with ```sudoers``` file?
+
+## How to change a user?
+- ```su - username``` (You will jump to home directory of user)
+- ```su username```
+## How to exit sudo user?
+- ```exit```
+
+## What is SUDO?
+(Super User Do) It is a way to temporarily grant a user administrator rights.
+
+## Details of ```sudo``` is present under
+
+```/etc/sudoers```
+
+## We can edit the above file using 
+- ```visudo```
+- ```sudo updatedb```
