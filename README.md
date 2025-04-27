@@ -13,7 +13,7 @@ __source:__ [here](https://youtu.be/l25ir0p6Lfc?si=Za_2njbjPX7bNx13)
 - ```su username```
 ## How to exit sudo user?
 - ```exit```
-- Press ```ctrl+d````
+- Press ```ctrl+d```
 
 ## What is SUDO?
 (Super User Do) It is a way to temporarily grant a user administrator rights.
